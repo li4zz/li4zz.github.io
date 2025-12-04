@@ -1,0 +1,1 @@
+body{font-family:Helvetica,sans-serif;line-height:1.6;min-height:300vh;margin:0;font-size:clamp(1rem,1rem + 1vw,1.5rem)}h1{line-height:1.25}.progress{height:1rem;position:fixed;background:#00f;top:3rem;left:0;width:100%;transform-origin:0 50%;animation:scaleProgress auto linear;animation-timeline:scroll()}@keyframes scaleProgress{0%{transform:scaleX(0)}to{transform:scaleX(1)}}
